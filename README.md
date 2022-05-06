@@ -10,6 +10,7 @@
 - Equipment
 ## Design
 - State diagram*
+![Test Image](OZJGTL5VDRFBDPPR7YVNIXFKGU.jpeg)
 - Explanation of considerations and reasoning to develop the state diagram*
 - State Table
 - State Assignments
