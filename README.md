@@ -12,7 +12,16 @@ We are implementing the functionality of traffic lights. These traffic lights on
 - Equipment
 ## Design
 - State diagram*
-- Explanation of considerations and reasoning to develop the state diagram*
+- #### Explanation of considerations and reasoning to develop the state diagram ####
+C = Counting sensor,
+E = Enable Sensor,
+W = Weather Sensor
+
+CR = Country Road,
+HW = Highway,
+0 -> Red,
+1 -> Green
+
 - State Table
 - State Assignments
 - Transition/Excitation Table
