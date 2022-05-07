@@ -1,7 +1,9 @@
 # CSE241-Final-Project
 ## Project Overview
 - Summary of what the project is.
-- Explanation of what you are actually designing*
+- ####  Explanation of the design ####
+We are implementing the functionality of traffic lights. These traffic lights only have red and green (No yellow). There is one highway and one country road which intersect perpendicularly, the traffic is unidirectional on both of these roads. Both signals cannot be green at the same time to avoid collisions, but can be red. There are three sensors that decides the color of the light, Counting sensor, which counts the number of cars passing through when its on. Weather sensor lets you know if it is snowing or not and Enable sensor. When the enable sensor is off the lights will be red and when its on the lights will be green. Counting sensor counts the vehicals passing through when the light is green and the enable sensor is on. This counting sensor won't be working when its snowing. When the lights are changing from one color to another both the signals should be red to avoid collisiosns.
+
 ## Background Concepts
 - List off what concepts are being utilized
 ## Tools and Resources
