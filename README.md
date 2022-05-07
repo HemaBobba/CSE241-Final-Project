@@ -13,7 +13,7 @@ We are implementing the functionality of traffic lights. These traffic lights on
 ## Design
 - State diagram
 
-![State Table]/(State_Table.jpeg)
+![State Table](State_Table.jpeg)
 - #### Explanation of considerations and reasoning to develop the state diagram ####
 
 C = Counting sensor,
